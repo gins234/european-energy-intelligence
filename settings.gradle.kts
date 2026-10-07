@@ -1,1 +1,2 @@
-rootProject.name = "EuropeanEnergyIntelligence"; include(":app")
+rootProject.name = "EuropeanEnergyIntelligence"
+include(":app")
