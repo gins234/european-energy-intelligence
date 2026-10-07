@@ -1,11 +1,4 @@
-// Top-level build.gradle.kts
 plugins {
     id("com.android.application") version "8.1.0" apply false
-}
-
-allprojects {
-    repositories {
-        google()
-        mavenCentral()
-    }
+    id("org.jetbrains.kotlin.android") version "1.9.10" apply false
 }
